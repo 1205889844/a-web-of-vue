@@ -6,10 +6,10 @@
     :ellipsis="false"
     @select="handleSelect"
   >
-    <el-menu-item index="0">
+    <el-menu-item index="1">
       <RouterLink to="/" class="nounderline">Home</RouterLink>
     </el-menu-item>
-    <el-menu-item index="1">
+    <el-menu-item index="0">
       <RouterLink to="/about" class="nounderline">About</RouterLink>
     </el-menu-item>
     <div class="flex-grow" />
