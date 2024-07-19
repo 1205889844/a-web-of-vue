@@ -12,6 +12,9 @@
     <el-menu-item index="0">
       <RouterLink to="/about" class="nounderline">About</RouterLink>
     </el-menu-item>
+    <el-menu-item index="2">
+      <RouterLink to="/game" class="nounderline">Game</RouterLink>
+    </el-menu-item>
     <div class="flex-grow" />
 
     <el-sub-menu index="100">
