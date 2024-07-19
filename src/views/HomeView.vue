@@ -6,9 +6,9 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 export default {
-  name: 'HomePage',
+  name: 'HomeView',
   methods: {
     showMessage() {
       alert('Hello from Vue!');
